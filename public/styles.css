@@ -1,0 +1,9 @@
+body {
+  display:flex;
+  justify-content: space-around;
+}
+.productBox{
+  height: 100px;
+  width: 100px;
+  background: #9c5cc6;
+}
